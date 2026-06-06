@@ -137,11 +137,11 @@ delicado, um commit de cada vez. &nbsp; 🐇</em></samp>
   <br>
 
   <img height="172"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=rose_pine&bg_color=00000000&hide_border=true&icon_color=F3A3B4&title_color=F3A3B4&text_color=c4a0b4"
+    src="https://github-readme-stats.vercel.app/api?username=sasadesabrina&show_icons=true&count_private=true&theme=rose_pine&bg_color=00000000&hide_border=true&icon_color=F3A3B4&title_color=F3A3B4&text_color=c4a0b4"
     alt="Sabrina's GitHub Stats" />
   &nbsp;
   <img height="172"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&bg_color=00000000&hide_border=true&title_color=F3A3B4&text_color=c4a0b4&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasadesabrina&layout=compact&theme=rose_pine&bg_color=00000000&hide_border=true&title_color=F3A3B4&text_color=c4a0b4&langs_count=6"
     alt="Top Languages" />
 
 </div>
