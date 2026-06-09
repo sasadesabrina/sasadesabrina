@@ -20,18 +20,15 @@
       <blockquote>
         <p>
           <em>
-            Uma desenvolvedora com alma de arquiteta —<br>
-            construindo sistemas elegantes e código limpo<br>
-            com a atenção de quem assina uma obra de arte. 🌷
+            Desenvolvedora full-stack júnior em ADS —<br>
+            do front-end ao back-end, com arquitetura limpa<br>
+            e sistemas que pensam do banco de dados à tela. 🌷
           </em>
         </p>
       </blockquote>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img
-        src="https://media.giphy.com/media/xT9IgG50Lg7russDrDi/giphy.gif"
-        width="170"
-        alt="sparkle gif — decorative" />
+      <img width="1280" height="1280" alt="icongithub" src="https://github.com/user-attachments/assets/081d161e-0aad-44e1-8f1d-d0e83f1ae6ef" />
     </td>
   </tr>
 </table>
@@ -61,7 +58,7 @@
 
 <blockquote>
 <p><em>
-Olá! Sou a <strong>Sabrina</strong> — desenvolvedora com alma de arquiteta e
+Olá! Sou a <strong>Sabrina</strong> - desenvolvedora com alma de arquiteta e
 sensibilidade de designer. Cada função tem intenção, cada abstração guarda
 elegância — porque código bonito é código que dura. 🌷
 </em></p>
