@@ -20,9 +20,9 @@
       <blockquote>
         <p>
           <em>
-            Desenvolvedora full-stack júnior em ADS —<br>
+            Desenvolvedora full-stack júnior em ADS, <br>
             do front-end ao back-end, com arquitetura limpa<br>
-            e sistemas que pensam do banco de dados à tela. 🌷
+            e sistemas que pensam do banco de dados à tela. ✨
           </em>
         </p>
       </blockquote>
@@ -58,9 +58,9 @@
 
 <blockquote>
 <p><em>
-Olá! Sou a <strong>Sabrina</strong> - desenvolvedora com alma de arquiteta e
+Olá Mundo! Sou a <strong>Sabrina</strong>, desenvolvedora com alma de arquiteta e
 sensibilidade de designer. Cada função tem intenção, cada abstração guarda
-elegância — porque código bonito é código que dura. 🌷
+elegância, porque código bonito é código que dura.
 </em></p>
 </blockquote>
 
@@ -79,8 +79,7 @@ elegância — porque código bonito é código que dura. 🌷
 <br><br>
 
 <blockquote>
-<samp><em>✨ &nbsp; tornando o mundo digital um lugar um pouquinho mais
-delicado, um commit de cada vez. &nbsp; 🐇</em></samp>
+<samp><em> 💗 &nbsp; apenas codando... &nbsp; 🐇</em></samp>
 </blockquote>
 
     </td>
