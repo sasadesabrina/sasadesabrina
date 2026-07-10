@@ -20,9 +20,9 @@
       <blockquote>
         <p>
           <em>
-            Desenvolvedora full-stack júnior em ADS, <br>
-            do front-end ao back-end, com arquitetura limpa<br>
-            e sistemas que pensam do banco de dados à tela. ✨
+            Junior Full-Stack Developer specializing in Systems Analysis. <br>
+            Bridging front-end aesthetics and back-end logic through clean architecture <br>
+            to build highly maintainable, data-driven software solutions. ✨
           </em>
         </p>
       </blockquote>
@@ -36,7 +36,7 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/sassadesabrina" target="_blank">
+  <a href="https://www.linkedin.com/in/sasadesabrina" target="_blank">
     <img
       src="https://img.shields.io/badge/%F0%9F%92%93_Connect_on_LinkedIn-F4B3C2?style=for-the-badge&logo=linkedin&logoColor=8a3050&logoWidth=22"
       height="40"
@@ -54,38 +54,36 @@
   <tr>
     <td width="60%" valign="top">
 
-<h3 align="left"><em>&nbsp;✦ &nbsp;sobre mim</em></h3>
+<h3 align="left"><em>&nbsp;✦ &nbsp;about me</em></h3>
 
 <blockquote>
 <p><em>
-Olá Mundo! Sou a <strong>Sabrina</strong>, desenvolvedora com alma de arquiteta e
-sensibilidade de designer. Cada função tem intenção, cada abstração guarda
-elegância, porque código bonito é código que dura.
+Hello World! I'm <strong>Sabrina</strong>, a developer who approaches code with the mindset of an architect and the intuition of a designer. I believe software should be as resilient as it is elegant. For me, writing code is about crafting deliberate abstractions and purposeful architectures because readable, scalable code is code that lasts.
 </em></p>
 </blockquote>
 
 <br>
 
-<img src="https://img.shields.io/badge/base-Brasil-F5C6D0?style=flat-square&labelColor=F4B3C2" alt="base" />
+<img src="https://img.shields.io/badge/Base-Brasil_%F0%9F%87%A7%F0%9F%87%B7-F5C6D0?style=for-the-badge&logoColor=c47a8a" alt="base" />
 &nbsp;
-<img src="https://img.shields.io/badge/foco-back--end_%26_arquitetura-D4C6F5?style=flat-square&labelColor=C4BAE8" alt="foco" />
+<img src="https://img.shields.io/badge/Foco-Front--end_%26_Arquitetura-D4C6F5?style=for-the-badge&logoColor=8a6ac4" alt="foco" />
 <br><br>
-<img src="https://img.shields.io/badge/estudando-clean_arch_%26_design_patterns-C6EFF5?style=flat-square&labelColor=B8DCE4" alt="estudando" />
+<img src="https://img.shields.io/badge/Estudando-ADS_%40_FIAP%2FITB-C6EFF5?style=for-the-badge&logoColor=4a9db0" alt="estudando" />
 <br><br>
-<img src="https://img.shields.io/badge/combustivel-cafe_%2B_lo--fi_em_loop-F5ECC6?style=flat-square&labelColor=E8DAB0" alt="combustível" />
+<img src="https://img.shields.io/badge/Combustível-Café_%E2%98%95-F5ECC6?style=for-the-badge&logoColor=c4a84a" alt="combustível" />
 &nbsp;
-<img src="https://img.shields.io/badge/missao-codigo_bonito_e_codigo_que_dura-C6F0D4?style=flat-square&labelColor=B0D9BE" alt="missão" />
+<img src="https://img.shields.io/badge/Missão-Código_limpo_%26_bonito-C6F0D4?style=for-the-badge&logoColor=4a9c6d" alt="missão" />
 
 <br><br>
 
 <blockquote>
-<samp><em> 💗 &nbsp; apenas codando... &nbsp; 🐇</em></samp>
+<samp><em> 💗 &nbsp; just turning coffee into clean code... &nbsp; 🐇</em></samp>
 </blockquote>
 
     </td>
     <td width="40%" align="center" valign="middle">
       <img
-        src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+        src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
         width="270"
         alt="Aesthetic coding gif" />
     </td>
@@ -148,7 +146,7 @@ elegância, porque código bonito é código que dura.
 <br>
 
 <div align="center">
-  <samp><em>✦ &nbsp; crafted with love, logic &amp; clean code &nbsp; ✦</em></samp>
+  <samp><em>✦ &nbsp;crafted with love, logic &amp; clean code &nbsp; ✦</em></samp>
   <br><br>
   <samp><em>— Sabrina 🌸 —</em></samp>
 </div>
