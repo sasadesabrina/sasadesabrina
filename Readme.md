@@ -20,9 +20,9 @@
       <blockquote>
         <p>
           <em>
-            Junior Full-Stack Developer specializing in Systems Analysis. <br>
-            Bridging front-end aesthetics and back-end logic through clean architecture <br>
-            to build highly maintainable, data-driven software solutions. ✨
+            Desenvolvedora full-stack júnior em ADS, <br>
+            do front-end ao back-end, com arquitetura limpa<br>
+            e sistemas que pensam do banco de dados à tela. ✨
           </em>
         </p>
       </blockquote>
@@ -54,30 +54,32 @@
   <tr>
     <td width="60%" valign="top">
 
-<h3 align="left"><em>&nbsp;✦ &nbsp;about me</em></h3>
+<h3 align="left"><em>&nbsp;✦ &nbsp;sobre mim</em></h3>
 
 <blockquote>
 <p><em>
-Hello World! I'm <strong>Sabrina</strong>, a developer who approaches code with the mindset of an architect and the intuition of a designer. I believe software should be as resilient as it is elegant. For me, writing code is about crafting deliberate abstractions and purposeful architectures because readable, scalable code is code that lasts.
+Olá Mundo! Sou a <strong>Sabrina</strong>, desenvolvedora com alma de arquiteta e
+sensibilidade de designer. Cada função tem intenção, cada abstração guarda
+elegância, porque código bonito é código que dura.
 </em></p>
 </blockquote>
 
 <br>
 
-<img src="https://shields.io" alt="base" />
+<img src="https://img.shields.io/badge/base-Brasil-F5C6D0?style=flat-square&labelColor=F4B3C2" alt="base" />
 &nbsp;
-<img src="https://shields.io" alt="foco" />
+<img src="https://img.shields.io/badge/foco-back--end_%26_arquitetura-D4C6F5?style=flat-square&labelColor=C4BAE8" alt="foco" />
 <br><br>
-<img src="https://shields.io" alt="estudando" />
+<img src="https://img.shields.io/badge/estudando-clean_arch_%26_design_patterns-C6EFF5?style=flat-square&labelColor=B8DCE4" alt="estudando" />
 <br><br>
-<img src="https://shields.io" alt="combustível" />
+<img src="https://img.shields.io/badge/combustivel-cafe_%2B_lo--fi_em_loop-F5ECC6?style=flat-square&labelColor=E8DAB0" alt="combustível" />
 &nbsp;
-<img src="https://shields.io" alt="missão" />
+<img src="https://img.shields.io/badge/missao-codigo_bonito_e_codigo_que_dura-C6F0D4?style=flat-square&labelColor=B0D9BE" alt="missão" />
 
 <br><br>
 
 <blockquote>
-<samp><em> 💗 &nbsp; just turning coffee into clean code... &nbsp; 🐇</em></samp>
+<samp><em> 💗 &nbsp; apenas codando... &nbsp; 🐇</em></samp>
 </blockquote>
 
     </td>
