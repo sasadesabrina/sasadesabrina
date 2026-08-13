@@ -128,15 +128,16 @@ Hello World! I'm <strong>Sabrina</strong>, a developer who approaches code with 
 
 <div align="center">
   <h3><em>✦ &nbsp;github stats</em></h3>
-  <div align="center">
+  <br>
 
-  <!-- Usando a instância alternativa mais estável -->
+  <!-- Estatísticas Gerais com cache-buster (?v=2) -->
   <img height="172"
-    src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=sasadesabrina&show_icons=true&count_private=true&theme=rose_pine&bg_color=00000000&hide_border=true&icon_color=F3A3B4&title_color=F3A3B4&text_color=c4a0b4"
+    src="https://vercel.app"
     alt="Sabrina's GitHub Stats" />
   &nbsp;
+  <!-- Top Linguagens com cache-buster (?v=2) -->
   <img height="172"
-    src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=sasadesabrina&layout=compact&theme=rose_pine&bg_color=00000000&hide_border=true&title_color=F3A3B4&text_color=c4a0b4&langs_count=6"
+    src="https://vercel.app"
     alt="Top Languages" />
 
 </div>
