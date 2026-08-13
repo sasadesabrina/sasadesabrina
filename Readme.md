@@ -129,8 +129,6 @@ Hello World! I'm <strong>Sabrina</strong>, a developer who approaches code with 
 <div align="center">
   <h3><em>✦ &nbsp;github stats</em></h3>
   <div align="center">
-  <h3><em>✦ &nbsp;github stats</em></h3>
-  <br>
 
   <!-- Usando a instância alternativa mais estável -->
   <img height="172"
